@@ -1,0 +1,4 @@
+input: test textyyy
+adds === to the end of input for block length
+output: 04 7f b4 32 80 ce 88 69 40 0c cc 5e b6 da 75 e7   this goes in hex block not text block
+no space:047fb43280ce8869400ccc5eb6da75e7
